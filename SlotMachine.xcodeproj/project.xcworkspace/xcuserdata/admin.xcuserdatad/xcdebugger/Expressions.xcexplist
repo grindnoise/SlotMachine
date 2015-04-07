@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SlotMachine.ArrayOfRows.checkFlush (SlotMachine.ArrayOfRows.Type)(Swift.Array&lt;SlotMachine.Slot&gt;) -&gt; Swift.Bool:Calculation.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SlotMachine.ViewController.setupContainer (SlotMachine.ViewController)(ObjectiveC.UIView) -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SlotMachine.ViewController.credits.getter : Swift.Int:ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SlotMachine.ViewController.currentBet.materializeForSet : Swift.Int:ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SlotMachine.ViewController.updateMainView (SlotMachine.ViewController)() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.betLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SlotMachine.ViewController.betAllButtonPressed (SlotMachine.ViewController)(ObjectiveC.UIButton) -&gt; ():ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

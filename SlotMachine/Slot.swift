@@ -1,3 +1,4 @@
+
 //
 //  Slot.swift
 //  SlotMachine
@@ -7,3 +8,10 @@
 //
 
 import Foundation
+import UIKit
+
+struct Slot {
+    var value = 0
+    var image:UIImage = UIImage(named: "Ace")!
+    var isRed = true
+}
